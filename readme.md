@@ -11,3 +11,5 @@
 - `yarn add express dotenv morgan colors mongoose`
 - `yarn add -D nodemon`
 - `yarn add bcryptjs multer validator jsonwebtoken`
+---
+- `yarn add cors`
